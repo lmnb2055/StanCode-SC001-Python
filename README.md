@@ -1,10 +1,10 @@
 # stanCode-SC001: Programming Methodologies
 Hey there! I’m Sidney Chen 👋✨
 ## 🧑🏻‍💻 About Me
-In May 2022, I made a bold leap—from being a Junior High School Technology Teacher to pursuing my passion as an aspiring Cybersecurity Engineer. That's when I dove headfirst into Python through stanCode's comprehensive curriculum. It’s been a journey of growth, challenges, and plenty of "aha!" moments. 💡💻
+In May 2022, I made a bold leap from being a Middle School Technology Teacher to pursuing my passion as an aspiring Programming Engineer. That's when I dove headfirst into Python through stanCode's comprehensive curriculum. It’s been a journey of growth, challenges, and plenty of "aha!" moments. 💡💻
 
 ## 💪 My Learning Journey
-This repo is more than just code—it's a snapshot of my dedication and the skills I’ve built along the way. 
+This repo is more than just code, it's a snapshot of my dedication and the skills I’ve built along the way. 
 
 I’ve tackled 4 hands-on assignments that helped me level up in:
 
@@ -19,7 +19,7 @@ Every file here reflects my approach, thought process, and the little victories 
 ## 💻 About stanCode 001
 The backbone of my Python journey is stanCode, founded by Stanford MSc. grad Jerry. He makes Stanford-level CS education accessible to all students in Taiwan—no matter their background.
 
-stanCode 001 draws inspiration from Stanford’s renowned CS106A, laying down a strong foundation in programming, critical thinking, and problem-solving. It’s where I learned to code not just for machines, but for people. 💖
+stanCode 001 draws inspiration from Stanford’s renowned CS106A, laying down a strong foundation in programming, critical thinking, and problem-solving. It’s where I learned to code not just for machines, but for people.
 
 🔗 Curious about stanCode?
 Check them out and start your own coding journey! ➡️ Learn more about [stanCode](http://stancode.tw/)
